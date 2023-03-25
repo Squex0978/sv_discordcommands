@@ -1,0 +1,9 @@
+Config = {}
+Config.ESX = true
+Config.BotToken = "bot token"
+Config.WebHook = "webhook"
+Config.ChannelID = "channel id für commands"
+Config.ReplyUserName = "Bot Nutzername"
+Config.AvatarURL = "Bot bild url"
+Config.Prefix = "!"
+Config.WaitEveryTick = 4000  --IN MILISEKUNDEN
